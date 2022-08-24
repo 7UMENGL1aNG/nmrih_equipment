@@ -6,7 +6,7 @@
 #include <sdktools_entinput>
 
 #undef MAXPLAYERS
-#define MAXPLAYERS 8
+#define MAXPLAYERS 9
 
 static const char
 	PL_NAME[]		= "[NMRiH] Equipment",
